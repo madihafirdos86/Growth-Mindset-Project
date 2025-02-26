@@ -12,7 +12,7 @@ st.write("Embrace Challenges, Learn from Mistakes and unlock your full potential
 st.header(" Today's Growth mindset quote")
 st.write("Failure is simply the opportunity to begin again, this time more intelligently." - Henry Ford )
 
-st.header(🔑"What's your challenge today?")
+st.header( "What's your challenge today?")
 user_input = st.text_input("describe a challenge you're facinf:")
 
 #conditions
